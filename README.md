@@ -13,3 +13,6 @@ A discrete convolution (or simply convolution) is a fundamental operation in a C
 
 ![image](https://user-images.githubusercontent.com/53411455/147838417-5adce72b-d407-4bd1-b49c-f9ca0b152b27.png)
 
+# Cross-correlation
+Cross-correlation (or simply correlation) between an input vector and a filter is denoted by y = x w and is very much like a sibling for convolution with a small difference; the difference is that in cross-correlation, the multiplication is performed in the same direction. Therefore, it is not required to rotate the filter matrix w in each dimension. Mathematically, cross-correlation is defined as follows:
+![image](https://user-images.githubusercontent.com/53411455/147838440-10198aae-ab7b-4743-9a93-73706ef8ee74.png)
