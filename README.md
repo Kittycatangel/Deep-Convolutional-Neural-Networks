@@ -26,3 +26,7 @@ The following figure illustrates the three different padding modes for a simple 
 
 ![image](https://user-images.githubusercontent.com/53411455/147838458-8326a4a4-2d4d-4830-85cb-7bd66146973d.png)
 
+# Details about this project
+
+The python code can be found this repository  as Untitled.iypnb and more details acout CNN can be found in the following blog : https://marushka.medium.com/deep-convolutional-neural-networks-4d20ac33de3c
+
